@@ -1,7 +1,5 @@
 # 📊 Cuadro de mandos Streamlit 
 
-## Despliegue de la aplicación - [Enlace web]()
-
 ## Temática
 
 Los datos tratan sobre diferentes juegos compatibles con el programa geforce now, un programa con la función de optimizar las opciones 
@@ -33,5 +31,7 @@ Este json contiene todo tipo de informacion de cada juego.
 
 ## Librerías utilizadas
 
+Las librerias que he utilizado han sido pandas para importar la base de datos, streamlit para crear la lista, los filtros, y gráficas. Además 
+he utilizado altair para crear gráficas más complejas.
 
-
+## Despliegue de la aplicación - [Enlace web]()
